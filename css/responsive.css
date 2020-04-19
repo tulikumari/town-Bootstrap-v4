@@ -1,0 +1,88 @@
+@media only screen and (min-width: 768px) {
+    /*******Menu on hover*******/
+	.dropdown:hover>.dropdown-menu {
+	  display: block;
+	}
+	.click_view{ margin-left:35px; }
+}
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+  .meet_section_inner{ background-color:rgba(0,0,0,0.4); padding:22px; }
+  .request_sec h2 { font-size:39px; }
+  .logo img{ width:180px; }
+  .header_rpart { padding-left: 180px; }
+  .navbar-expand-md .navbar-nav .nav-link{ font-size:14px; }
+  .navbar-expand-md .navbar-nav > .nav-item{ margin-left:14px; }
+}
+
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+ .hero_section h1{ font-size:60px; }
+ .mid_content h2{ font-size:36px; line-height:42px; }
+ .testinomial_section h2{ font-size:36px; line-height:42px; }
+ .testinomial_section h3{ font-size:36px; line-height:42px;}
+.meet_section h2{ color:#ffd700; font-size:26px; }
+.meet_section_inner{ background-color:rgba(0,0,0,0.4); padding:22px; }
+.click_view_btn, .click_view_btn:hover{ font-size:36px; line-height:36px; } 
+.click_view_btn span{ font-size:20px; line-height:22px; } 
+.request_sec h3{ font-size:16px; }
+.header_r{ display:none; }
+.header_rpart{ padding-right:0; }
+.logo img{ width:150px; }
+.navbar-expand-md .navbar-nav > .nav-item{ margin-left:14px; }
+.header_rpart { padding-left: 170px; }
+.navbar-expand-md .navbar-nav .nav-link{ font-size:13px; }
+.award_article{ padding-left:10px; padding-right:10px; }
+.award_article_img img {
+    height: 150px; }
+.award_article div.award_article_img:after{ width:200px; height:200px; }
+.pricing_box_common .detail { font-size: 17px;	}
+}
+@media only screen and (max-width: 767px) {
+ .hero_section h1{ font-size:50px; }
+ .mid_content{ width:100%; margin-top:55px; }
+ .mid_img{ margin-top:5px; }
+ .mid_content h2{ font-size:36px; line-height:42px; }
+ .mid_sec h1{ font-size:36px; line-height:42px; }
+  .testinomial_section h2{ font-size:36px; line-height:42px; }
+ .testinomial_section h3{ font-size:36px; line-height:42px;}
+.meet_section_inner{ background-color:rgba(0,0,0,0.4); padding:22px; }
+.meet_log1, .meet_log2, .meet_log3, .meet_log4{ text-align:center; }
+.read_story{ text-align:center; width:100%; display:block; vertical-align:middle; padding-top:12px; }
+.read_story_detail{ display:block; vertical-align:middle; padding-left:0px; border-left:0px; text-align:center; padding-top:5px; }
+.click_view_btn, .click_view_btn:hover{ margin-top:35px; margin-left:0px; font-size:36px; line-height:36px; } 
+.click_view_btn span{ font-size:20px; line-height:22px; } 
+.people_absolute{ display:none; }
+.win_oil h2{ padding-top:45px; }
+.header_r{ display:none; }
+.header_rpart{ padding-left:0; padding-right:0; }
+.header_top_r{ float:none; }
+.logo_sec{ position:static; text-align:center; padding-top:15px; }
+.logo{ margin:0; }
+.navbar-toggler, .navbar-toggler:focus, .navbar-toggler:hover{ margin-top:-28px; }
+.navbar-collapse {     position: absolute;
+    top: 100%;
+    width: 100%;
+    background-color: #999; }
+.navbar{ text-align:left; padding-top:0; margin-left: -15px; margin-right: -15px; }	
+.header_top_r{ float:right; }
+.header_relative{ padding-bottom:0; }
+.navbar-expand-md .navbar-nav .nav-link{ color:#fff; display:block; margin-top:3px; margin-bottom:3px; }
+.navbar-nav{ padding-top:14px; padding-bottom:14px; }
+.navbar-toggler, .navbar-toggler:focus{ margin-left:15px; outline:0; }
+.header_phone span{ display:none; }
+.fleet_img img { width: 40%; }
+.fleet_img, .subtitle{ text-align:center; }
+.request_btn{ text-align:center; padding-bottom:20px; }
+.request_btn a { margin-left: 0px; }
+.footer_l{ float:none; }
+.footer_r{ float:none; padding-right:0; padding-top:15px; }
+.service_img{ display:none; }
+.pricing_price{ margin-top:0px; }
+.pricing_box_common{ margin-top:35px; }
+.pricing_box_common {
+ border-radius:4px 4px 4px 4px !important; -moz-border-radius:4px 4px 4px 4px !important; -webkit-border-radius:4px 4px 4px 4px !important; -khtml-border-radius:4px 4px 4px 4px !important;
+}
+.pricing_box_common .title{
+ border-radius:4px 4px 0px 0px !important; -moz-border-radius:4px 4px  0px 0px !important; -webkit-border-radius:4px 4px  0px 0px !important; -khtml-border-radius:4px 4px  0px 0px!important;
+}
+}
